@@ -1,0 +1,14 @@
+Turbulence -- the last unsolved problem of classical physics
+
+Use the `--prob turb -fft` compile option and the `input/athinput.turb` file.
+
+Some suggestions:
+- How long does it take for the turbulence to decay?
+- Or if you continuously stir (iprob=2 with a reasonable dtdrive and tcorr), how long does it take to reach steady state? Does it ever?
+- What is the final Mach number you achieve?
+- If you choose to use an adiabatic EoS, how fast does the medium get hotter?
+- Check out the kinetic energy power spectrum!
+
+
+
+

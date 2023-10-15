@@ -1,0 +1,9 @@
+Who likes mushrooms?
+The Rayleigh-Taylor instability is important once gravity is.
+
+Compile Athena++ with `--prob rt` and use the `inputs/athinput.rt` input file.
+
+When is it stable/unstable?
+Is the change with density ratio / gravity as expected?
+How fast does the instability grow?
+

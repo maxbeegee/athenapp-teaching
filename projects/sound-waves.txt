@@ -1,0 +1,16 @@
+Waves are an essential component to fluid dynamics.
+
+This project focuses on sound waves and the equation of state. Use the input file `inputs/athinput.linear_wave1d` in this folder, compile Athena++ with the `--prob linear_wave` parameter and consider:
+(1) changing the equation of state (see ./configure -h); focus on isothermal and adiabatic eos
+(2) change the speed of sound (with the `gamma` or `iso_sound_speed` parameters)
+(3) modify the amplitude of the wave using the (`amp`) parameter
+
+Is the propagation as expected?
+
+You might also consider
+(a) giving the background a fixed flow (using the `vflow` parameter)
+(b) increasing the runtime (`tlim`)
+(c) change the number of grid cells (`mesh/nx1`)
+
+When does the code "break", i.e., deviate from your expectation?
+

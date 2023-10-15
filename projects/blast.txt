@@ -1,0 +1,12 @@
+Blowing up stuff is fun!
+In astrophysics, blast waves are common, e.g., around supernovae explosions.
+
+Use ` --prob blast` and the input files `athinput.blast` and / or `athinput.blast_sph` in the `input/` directory (depending whether you like Cartesian or spherical coordinates more...).
+
+Some things to try:
+(1) Is the propagation as expected?
+(2) Is the inner / outer profile as expected?
+(3) Do things behave they should if you change the pressure / the EoS / the gas / ...?
+(4) Any numerical problems you encounter...?
+
+

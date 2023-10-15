@@ -1,0 +1,9 @@
+Viscosity - sticky business.
+Often neglected in astrophysics because it's hard to handle.
+
+Compile the code with `--prob visc -sts` and use `input/athinput.visc` as input file.
+
+How fast does the Gaussian widen?
+Is this aligned with your analytical expectations?
+Also when you change the parameters?
+

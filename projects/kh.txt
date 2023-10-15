@@ -1,0 +1,11 @@
+The Kelvin-Helmholtz instability is probably the most well-known hydrodynamical instability.
+And it plays a pivotal role in astrophysics!
+
+Compile Athena++ with `--prob kh`. Use the input file `athinput.kh` found in the `inputs/` folder.
+
+When is the setup stable / unstable?
+How fast does the perturbation grow? Does that match what you expect?
+How do things change with changed flow speed / overdensity?
+What do you notice when you in/decrease the resolution?
+
+

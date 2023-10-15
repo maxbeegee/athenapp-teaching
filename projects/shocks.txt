@@ -1,0 +1,11 @@
+Shocks are ubiquitous in astrophysics and numerically hard to handle.
+
+In this numerical project, try to set up stable shocks and see how they behave. Use the input file `inputs/athinput.shocks` in this folder, compile Athena++ with the `--prob shock_tube` parameter and try to set up the left / right condition so you see a stable shock in your simulation domain.
+
+For which velocities / pressures / densities is this possible?
+How close is your simulated shock to your analytical expectation (suggestions: you could also check for mono-atomic and diatomic gas or an isothermal eos, ...)?
+Is there a change with resolution?
+
+Tip: check that the shock is really stable and not just appears to be due to a short runtime.
+
+
