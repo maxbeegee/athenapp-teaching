@@ -1,6 +1,6 @@
 Turbulence in 2D might seem like a mathematical curiosity but is actually relevant in many (astro)physical situations.
 
-Use the `--prob turb -fft` compile option and the `input/athinput.turb` file. Modify the input file from 3D to 2D.
+Use the `--prob turb -fft` compile option and the `input/athinput.turb` file. Modify the input file from 3D to 2D (set the `nx` and size parameters accordingly).
 
 Some suggestions:
 - If you continuously stir (iprob=2 with a reasonable dtdrive and tcorr), how long does it take to reach steady state? Does it ever?

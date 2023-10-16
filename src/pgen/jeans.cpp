@@ -111,6 +111,9 @@ void Mesh::InitUserMeshData(ParameterInput *pin) {
               << sin_a2 << " " << cos_a2 << std::endl;
     std::cout << "angle3 " << ang_3*180./PI << " "
               << sin_a3 << " " << cos_a3 << std::endl;
+    std::cout << "omega " << omega << std::endl;
+    std::cout << "omega2 " << omega2 << std::endl;
+
   }
   return;
 }
