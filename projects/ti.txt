@@ -1,0 +1,18 @@
+Thermal instability. Cool stuff.
+
+Compile Athena++ with the `--probe ti` switch and use the `athinput.ti` input file.
+
+When does the instability occur?
+How fast does it grow?
+Check especially for "realistic" cooling curve slopes.
+Is that in accordance with your expectations?
+
+Note: the cooling / heating routine is very rudimentary, so use a `cfl_number` so that the timestep is smaller than your cooling time.
+
+
+
+
+
+
+
+
