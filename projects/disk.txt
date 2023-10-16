@@ -1,0 +1,11 @@
+Disks can be found around (forming) stars, planets, supermassive black holes, ...
+
+For this project use the `--prob disk  --coord=cylindrical` compile option and the `athinput.disk` file in the input directory.
+
+Some ideas:
+Is the disk stable?
+What is its profile?
+Is there an accretion flux?
+How does this all compare to your theoretical expectations?
+
+
