@@ -1,6 +1,6 @@
 Thermal instability. Cool stuff.
 
-Compile Athena++ with the `--probe ti` switch and use the `athinput.ti` input file.
+Compile Athena++ with the `--prob ti` switch and use the `athinput.ti` input file.
 
 When does the instability occur?
 How fast does it grow?
