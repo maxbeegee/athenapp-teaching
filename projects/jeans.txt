@@ -1,6 +1,6 @@
 The Jeans instability is crucial to understand how dark matter halos, galaxies, and stars are formed.
 
-Use the `inputs/athinput.jeans` input file and the `--prob jeans --grav mg` compile option to run Athena++.
+Use the `inputs/athinput.jeans` input file and the `--prob jeans --grav fft -fft` compile option to run Athena++.
 
 When is the perturbation stable / unstable?
 How fast is the collapse?
